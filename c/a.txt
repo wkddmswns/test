@@ -1,0 +1,102 @@
+//void main()
+//{
+//	int sum = 0;
+//	int A = 1;
+//	int B = 1;
+//
+//	do {
+//		
+//		sum = sum + A;
+//		A = A + B;
+//		B = B + 1;
+//
+//	}
+//	while (B <= 10);
+//	printf("%d", sum);
+//}
+
+
+//void main()
+//{
+//	int sum = 0;
+//	int A = 1;
+//	int B = 2;
+//
+//	do {
+//		sum = sum + A;
+//		A = A + B;
+//		B = B + 1;
+//
+//	} while (B-2 < 10);
+//	printf("%d", sum);
+//}
+
+
+//void main()
+//{
+//	int sum = 0;
+//	int A = 1;
+//	int B = 1;
+//
+//
+//	do {
+//
+//		sum = sum + A;
+//		A = A + B;
+//		B = B + 2;
+//
+//	} while (B <= 19);
+//	printf("%d", sum);
+//}
+
+
+//void main()
+//{
+//	int sum = 0;
+//	int A = 1;
+//	int B = 2;
+//
+//
+//	do {
+//		sum += A - B;
+//		A = A + 2;
+//		B = B + 2;
+//		
+//	} while (A <= 99);
+//	printf("%d", sum);
+//}
+
+//void main()
+//{
+//	int sum = 0;
+//	int A = 1;
+//	int sw = 0;
+//
+//
+//	do {
+//		A = A + 2;
+//		if (A % 2!= 0)
+//			sw = A + 2;
+//		else
+//			sw = A - 2;
+//		
+//		
+//	} while (A <= 99);
+//	printf("%d", sum);
+//}
+
+
+//void main()
+//{
+//	int  sum = 1;
+//    int A = 0;
+//    int SW = 1;
+//
+//    do {
+//        A = A + 1;
+//        sum = sum * (A * SW);
+//
+//            SW = SW * -1;
+//    } while (A < 10);
+//    printf("%d", sum);
+//    }
